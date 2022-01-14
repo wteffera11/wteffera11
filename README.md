@@ -3,9 +3,7 @@
 
 ### Skills and Experience
 
-   REACT
-   REACT NATIVE
-   JS / HTML / CSS / 
+   REACT / REACT NATIVE / JS / HTML / CSS / 
 
 🔭 I’m currently working as a Freelancer 
 🌱 I’m currently learning Flutter 
