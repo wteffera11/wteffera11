@@ -2,7 +2,7 @@
    <h1> Hi there 👋, My name is Ermias Tefera </h1>
    <h3> I am a React and React Native Developer </h3>
 
-   <h2> Skills and Experience</h2>
+   <h5> Skills and Experience</h5>
 
    REACT / REACT NATIVE / JS / HTML / CSS / 
 
