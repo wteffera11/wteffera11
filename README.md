@@ -1,10 +1,13 @@
-### Hi there 👋, My name is Ermias Tefera ###
+<div align="center" width="100%" >### Hi there 👋, My name is Ermias Tefera ###
 #### I am a React and React Native Developer
-I am Ermias Tefera, I work with React and React Native. I have worked on different projects.
 
-Skills:  REACT / JS / HTML / CSS / 
+### Skills and Experience
 
-- 🔭 I’m currently working on Freelancer 
+  - REACT
+  - REACT NATIVE
+  -  JS / HTML / CSS / 
+
+- 🔭 I’m currently working as a Freelancer 
 - 🌱 I’m currently learning Flutter 
 
 
@@ -19,3 +22,5 @@ Skills:  REACT / JS / HTML / CSS /
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wteffera11)  
 
 ![Profile views](https://gpvc.arturio.dev/wteffera11)  
+
+  </div>
