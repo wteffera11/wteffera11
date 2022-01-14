@@ -1,6 +1,7 @@
 
 <!-- <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a> -->
 <h2> ### Hi there 👋 I am Ermias Tefera, a Front end developer and Teacher</h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wteffera11)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Ermias's GitHub stats](https://github-readme-stats.vercel.app/api?username=wteffera11)](https://github.com/wteffera11/github-readme-stats) -->
 
 
