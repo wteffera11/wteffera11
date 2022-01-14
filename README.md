@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Ermias Tefera
+### Hi there 👋, My name is Ermias Tefera ###
 #### I am a React and React Native Developer
 I am Ermias Tefera, I work with React and React Native. I have worked on different projects.
 
