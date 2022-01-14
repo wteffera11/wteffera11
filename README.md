@@ -3,12 +3,12 @@
 
 ### Skills and Experience
 
-  - REACT
-  - REACT NATIVE
-  -  JS / HTML / CSS / 
+   REACT
+   REACT NATIVE
+   JS / HTML / CSS / 
 
-- 🔭 I’m currently working as a Freelancer 
-- 🌱 I’m currently learning Flutter 
+🔭 I’m currently working as a Freelancer 
+🌱 I’m currently learning Flutter 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wteffera11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/wteffera11)  
