@@ -1,5 +1,5 @@
 <div align="center" width="100%" >
-   <h1> Hi there 👋, My name is Ermias Tefera </h1>
+   <h1> Hi there 👋, My name is Muleta</h1>
    <h3> I am a React and React Native Developer </h3>
 
    <h5> Skills and Experience</h5>
